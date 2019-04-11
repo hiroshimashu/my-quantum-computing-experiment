@@ -1,0 +1,2 @@
+- Activate environment
+  - source bin/ocean/activate
